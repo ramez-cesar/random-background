@@ -10,7 +10,6 @@ const hexadecimal = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 'A', 'B', 'C', 'D', 'E', 'F']
 // Listener que ejecuta la función que genera un background aleatorio
 btnGenerateColor.addEventListener('click', () => {
     generateColor()
-    document.execCommand('copy')
 })
 
 
