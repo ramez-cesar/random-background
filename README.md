@@ -11,11 +11,11 @@ A small project that generates background colors randomly.
 
 ### URL to view site
 
-- Live Site URL: [Random Background color]()
+- Live Site URL: [Random Background color](https://ramez-cesar.github.io/random-background/)
 
 
 ### Built with
 
-- Semantic HTML5
+- HTML5
 - CSS3
 - JavaScript
